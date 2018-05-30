@@ -52,7 +52,7 @@ main{
   color: #888
 }
 
-#landing-iamge{
+#landing-image{
   background: url('I1.jpeg');
   background-position: center;
   background-size: cover;
@@ -109,14 +109,17 @@ footer h3{
 }
 
 @media(min-width: 500px) {
+
 #landing{
   display:flex;
   height: 100%;
 }
+
 #landing-text{
   height: 100vh;
   }
-#lanfing-image{
+
+#landing-image{
   height: 100vh;
 }
 
@@ -126,4 +129,4 @@ footer h3{
 .btn{
   padding:1rem 3rem;
 }
-}  
+}
