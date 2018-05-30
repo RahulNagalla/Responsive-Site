@@ -53,7 +53,7 @@ main{
 }
 
 #landing-image{
-  background: url('I1.jpeg');
+  background: url("../Images/I1.jpeg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
